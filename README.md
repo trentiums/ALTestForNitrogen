@@ -1,10 +1,10 @@
-## To first time install this project
-### 1 `yarn`
+### To first time install this project
+#### `yarn`
 
 
-## To run this project
-### 1 `yarn start`
+### To run this project
+#### `yarn start`
 
 
-## To build this project
-### `yarn build`
+### To build this project
+#### `yarn build`
